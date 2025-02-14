@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Tu sonrisa ilumina mi vida ✨",
         "En mi vida eres como un panda: Especial, única y adorable 🐼",
         "Eres mi camino y siempre vas a ser mi camino 🕷️🕸️",
-        "Eres la única rosa en mi jardín 🌷",
+        "Ni en Disney hay una princesa tan linda como tu 🌷",
         "Eres el tipo de persona que, sin hacer ruido, llena todo de magia 💛",
         "La sonrisa es mia, pero el motivo eres tu 💕",
         "Eres ese detalle bonito que hace que mis días sean mejores 💓",
